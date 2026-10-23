@@ -1,0 +1,6 @@
+{
+  "name": "Somno - Sleep Timer Android 15+",
+  "description": "Aplikasi Sleep Timer canggih untuk Android 15+ dengan turn wheel rotary dial, notifikasi interaktif sisa waktu, pemutus media & Bluetooth otomatis, preset kustom, dan mode malam hemat baterai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
